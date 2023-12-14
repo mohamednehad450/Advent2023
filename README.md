@@ -9,3 +9,4 @@ This year I've decided to do each day in a different language
 1. TypeScript
 2. Golang
 3. Python
+4. C
